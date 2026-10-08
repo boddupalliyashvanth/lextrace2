@@ -1,0 +1,4 @@
+config,description,strict_groundedness,lenient_groundedness,fabrications,recall,usefulness
+A0,Standard RAG,0.55,0.65,14,0.65,3.0
+A1,Long-Context RAG,0.65,0.75,22,0.85,3.6
+A6,Full System,0.9,0.95,0,0.85,3.5
