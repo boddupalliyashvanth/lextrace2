@@ -1,8 +1,11 @@
-data/raw
-indexes
-runs
-.cache
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.cache/
 .env
-__pycache__
+runs/
 *.faiss
-*.pyc
+data/raw/
+data/processed/
+scratch_data/
