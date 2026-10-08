@@ -1,0 +1,13 @@
+sections:
+  - type: boilerplate
+    name: "Header"
+    file: "templates/boilerplate/affidavit_header.md"
+  - type: fact_section
+    name: "Affirmations"
+    slots:
+      - name: "Deponent Name"
+        description: "Name of the person affirming"
+        required: true
+  - type: prayer
+    name: "Verification"
+    file: "templates/boilerplate/affidavit_prayer.md"
