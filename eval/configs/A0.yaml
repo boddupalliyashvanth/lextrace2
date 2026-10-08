@@ -1,0 +1,3 @@
+name: A0
+description: "Standard RAG (B1)"
+baseline: "b1_standard_rag"
