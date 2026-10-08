@@ -1,0 +1,5 @@
+{"query_id": "holdout_1", "text": "What is the standard for applying Section 482 of CrPC in quashing an FIR for a civil dispute disguised as a criminal complaint?", "needs": ["statute", "judgment"], "target_component": "drafting (P4)"}
+{"query_id": "holdout_2", "text": "Under the Bharatiya Nyaya Sanhita, what is the maximum punishment for criminal breach of trust, and how does it compare to the legacy IPC?", "needs": ["statute"], "target_component": "grounding (P3)"}
+{"query_id": "holdout_3", "text": "Can a bail application be rejected solely because the accused is a foreign national, and what precedents apply?", "needs": ["judgment"], "target_component": "drafting (P4)"}
+{"query_id": "holdout_4", "text": "Identify instances where the FIR in the case file contradicts the victim's statement recorded under Section 161.", "needs": ["case_file"], "target_component": "grounding (P3)"}
+{"query_id": "holdout_5", "text": "Has the Supreme Court recently (post-2023) reinterpreted the requirement of 'mens rea' under the Prevention of Corruption Act?", "needs": ["judgment", "statute"], "target_component": "drafting (P4)"}

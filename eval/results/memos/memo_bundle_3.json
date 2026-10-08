@@ -1,0 +1,20 @@
+{
+  "workflow": "research",
+  "rendered_markdown": "## Fake Rendered Output",
+  "claims": [],
+  "citations": [],
+  "missing_info": [
+    {
+      "slot": "Relevant precedents",
+      "why_needed": "No judgment in the provided corpus addresses Quashing FIR due to civil dispute?",
+      "queries_tried": [
+        "Quashing FIR due to civil dispute?"
+      ],
+      "status": "not_found"
+    }
+  ],
+  "contradictions": [],
+  "confidence": 0.9,
+  "abstained": false,
+  "trace": []
+}

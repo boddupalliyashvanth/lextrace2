@@ -1,0 +1,28 @@
+[
+  {
+    "query_id": "dev_12",
+    "text": "Punishment for 420 IPC equivalent in BNS",
+    "gold_chunk_ids": [
+      "statute_bns::section_318"
+    ],
+    "retrieved_chunk_ids": [
+      "statute_ipc::section_420",
+      "judgment_123::p4"
+    ],
+    "root_cause_tag": "alias",
+    "notes": "Query expansion missed mapping '420 IPC' to 'BNS 318' properly without strict aliases"
+  },
+  {
+    "query_id": "dev_15",
+    "text": "Process for search and seizure in night hours",
+    "gold_chunk_ids": [
+      "statute_bnss::section_185"
+    ],
+    "retrieved_chunk_ids": [
+      "statute_bnss::section_184",
+      "statute_crpc::section_165"
+    ],
+    "root_cause_tag": "chunking",
+    "notes": "Relevant chunk exceeded limits and split the proviso out of context."
+  }
+]

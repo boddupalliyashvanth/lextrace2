@@ -1,0 +1,35 @@
+{
+  "doc_id": "case_bundle_001",
+  "doc_type": "case_file",
+  "title": "Synthetic Case Bundle Alpha",
+  "uri": "local://tests/fixtures/mini_corpus/case_bundle_001",
+  "sha256": "fakehash1",
+  "license": "synthetic",
+  "synthetic": true,
+  "chunks": [
+    {
+      "chunk_id": "case_bundle_001::p1::c1",
+      "text": "Page 1: The incident occurred on a Tuesday.",
+      "page_start": 1,
+      "page_end": 1,
+      "char_start": 0,
+      "char_end": 43
+    },
+    {
+      "chunk_id": "case_bundle_001::p2::c1",
+      "text": "Page 2: The sky was observed to be orange.",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 44,
+      "char_end": 86
+    },
+    {
+      "chunk_id": "case_bundle_001::p3::c1",
+      "text": "Page 3: No injuries were reported.",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 87,
+      "char_end": 121
+    }
+  ]
+}

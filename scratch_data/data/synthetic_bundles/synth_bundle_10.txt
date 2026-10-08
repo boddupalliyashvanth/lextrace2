@@ -1,0 +1,6 @@
+--- Doc 1 ---
+FIR Report: Incident on 12th Jan. Suspect: Ramesh.
+--- Doc 2 ---
+Charge Sheet: Ramesh arrested on 14th Jan.
+--- Doc 3 ---
+Medical Report: Injuries noted on victim.

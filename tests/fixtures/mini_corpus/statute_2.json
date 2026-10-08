@@ -1,0 +1,19 @@
+{
+  "doc_id": "statute_2",
+  "doc_type": "statute",
+  "title": "Synthetic Statute 2",
+  "uri": "local://tests/fixtures/mini_corpus/statute_2",
+  "sha256": "fakehash3",
+  "license": "synthetic",
+  "synthetic": true,
+  "chunks": [
+    {
+      "chunk_id": "statute_2::p1::c1",
+      "text": "Section 2: Tuesday rules.",
+      "page_start": 1,
+      "page_end": 1,
+      "char_start": 0,
+      "char_end": 25
+    }
+  ]
+}

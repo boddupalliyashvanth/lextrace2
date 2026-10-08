@@ -1,0 +1,18 @@
+generator:
+  primary: gemini-1.5-pro
+  fallback: gemini-1.5-flash
+verifier:
+  primary: gemini-1.5-pro
+  fallback: gemini-1.5-flash
+judge:
+  primary: gemini-1.5-pro
+  fallback: gemini-1.5-flash
+baseline:
+  primary: gemini-1.5-flash
+  fallback: gemini-1.5-flash
+embedder:
+  primary: text-embedding-004
+  fallback: text-embedding-004
+reranker:
+  primary: semantic-ranker
+  fallback: bm25

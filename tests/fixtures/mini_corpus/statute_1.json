@@ -1,0 +1,19 @@
+{
+  "doc_id": "statute_1",
+  "doc_type": "statute",
+  "title": "Synthetic Statute 1",
+  "uri": "local://tests/fixtures/mini_corpus/statute_1",
+  "sha256": "fakehash2",
+  "license": "synthetic",
+  "synthetic": true,
+  "chunks": [
+    {
+      "chunk_id": "statute_1::p1::c1",
+      "text": "Section 1: Mandatory hats.",
+      "page_start": 1,
+      "page_end": 1,
+      "char_start": 0,
+      "char_end": 26
+    }
+  ]
+}

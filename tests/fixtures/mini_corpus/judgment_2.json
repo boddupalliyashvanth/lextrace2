@@ -1,0 +1,19 @@
+{
+  "doc_id": "judgment_2",
+  "doc_type": "judgment",
+  "title": "Synthetic Judgment 2",
+  "uri": "local://tests/fixtures/mini_corpus/judgment_2",
+  "sha256": "fakehash6",
+  "license": "synthetic",
+  "synthetic": true,
+  "chunks": [
+    {
+      "chunk_id": "judgment_2::p1::c1",
+      "text": "Para 1: Tuesday rules apply.",
+      "page_start": 1,
+      "page_end": 1,
+      "char_start": 0,
+      "char_end": 28
+    }
+  ]
+}

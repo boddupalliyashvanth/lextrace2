@@ -1,0 +1,2 @@
+{"query_id": "dev_1", "text": "What is the process for anticipatory bail under Section 438 of CrPC?", "gold_chunk_ids": ["statute_crpc::section_438"]}
+{"query_id": "dev_2", "text": "Does BNS alter the definition of cheating from IPC 420?", "gold_chunk_ids": ["statute_bns::section_318", "statute_ipc::section_420"]}

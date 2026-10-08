@@ -1,0 +1,1 @@
+# LexTrace\nAgentic legal assistant.\n

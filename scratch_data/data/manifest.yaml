@@ -1,0 +1,571 @@
+files:
+- court: null
+  date: null
+  doc_type: statute
+  id: bns_2023
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/BNS_2023.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: bnss_2023
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/BNSS_2023.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: bsa_2023
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/BSA_2023.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: ipc_1860
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/IPC_1860.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: crpc_1973
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/CrPC_1973.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: iea_1872
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/IEA_1872.pdf
+  synthetic: false
+- court: null
+  date: null
+  doc_type: statute
+  id: ica_1872
+  jurisdiction: India
+  licence: Public Domain (Government of India)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://www.indiacode.nic.in/handle/123456789/1362/ICA_1872.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_1
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/1.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_2
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/2.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_3
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/3.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_4
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/4.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_5
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/5.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_6
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/6.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_7
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/7.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_8
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/8.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_9
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/9.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_10
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/10.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_11
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/11.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_12
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/12.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_13
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/13.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_14
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/14.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_15
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/15.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_16
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/16.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_17
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/17.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_18
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/18.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_bail_19
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/19.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_bail_20
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/20.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_21
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/21.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_22
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/22.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_23
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/23.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_24
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/24.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_25
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/25.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_26
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/26.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_27
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/27.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_28
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/28.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_29
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/29.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_30
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/30.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_31
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/31.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_32
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/32.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_33
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/33.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_34
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/34.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_35
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/35.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_36
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/36.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_37
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/37.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_38
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/38.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2023-05-15'
+  doc_type: judgment
+  id: judg_contract_39
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2023/39.pdf
+  synthetic: false
+- court: Supreme Court of India
+  date: '2024-08-15'
+  doc_type: judgment
+  id: judg_contract_40
+  jurisdiction: India
+  licence: Public Domain (Indian Courts)
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: https://main.sci.gov.in/supremecourt/2024/40.pdf
+  synthetic: false
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_1
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_2
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_3
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_4
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_5
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_6
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_7
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_8
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_9
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true
+- court: Synthetic Court
+  date: '2024-01-01'
+  doc_type: case_file
+  id: synth_bundle_10
+  jurisdiction: India
+  licence: Synthetic
+  retrieval_date: '2026-10-08'
+  sha256: null
+  source_url: null
+  synthetic: true

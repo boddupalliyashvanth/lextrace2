@@ -1,0 +1,6 @@
+retriever: hybrid
+claimgen: fake
+verifier: fake
+rerank: off
+contradictions: off
+missing_info: off

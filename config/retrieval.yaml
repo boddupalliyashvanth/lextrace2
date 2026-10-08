@@ -1,0 +1,14 @@
+retrieval:
+  top_k: 8
+  stages:
+    expansion: true
+    dense: true
+    bm25: true
+    fusion: true
+    rerank: true
+  dense:
+    batch_size: 32
+  fusion:
+    rrf_k: 60
+  rerank:
+    top_k: 30

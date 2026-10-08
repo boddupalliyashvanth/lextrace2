@@ -1,0 +1,8 @@
+data/raw
+indexes
+runs
+.cache
+.env
+__pycache__
+*.faiss
+*.pyc

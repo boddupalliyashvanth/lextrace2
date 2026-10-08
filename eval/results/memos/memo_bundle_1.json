@@ -1,0 +1,20 @@
+{
+  "workflow": "research",
+  "rendered_markdown": "## Fake Rendered Output",
+  "claims": [],
+  "citations": [],
+  "missing_info": [
+    {
+      "slot": "Relevant precedents",
+      "why_needed": "No judgment in the provided corpus addresses Is this a valid FIR under 420 IPC?",
+      "queries_tried": [
+        "Is this a valid FIR under 420 IPC?"
+      ],
+      "status": "not_found"
+    }
+  ],
+  "contradictions": [],
+  "confidence": 0.9,
+  "abstained": false,
+  "trace": []
+}
