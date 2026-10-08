@@ -1,0 +1,3 @@
+{"type": "contradiction", "claim_a": "The incident occurred on 12-05-2023.", "claim_b": "The incident took place on 14-05-2023.", "entity": "incident", "attribute": "date"}
+{"type": "contradiction", "claim_a": "Damages were set at Rs 100,000.", "claim_b": "The court awarded Rs 500,000.", "entity": "damages", "attribute": "amount"}
+{"type": "gap", "description": "Reference to unsigned or undated pages found in documents."}
