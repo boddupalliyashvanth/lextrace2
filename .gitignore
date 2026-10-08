@@ -9,3 +9,15 @@ runs/
 data/raw/
 data/processed/
 scratch_data/
+
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.cache/
+.env
+runs/
+*.faiss
+data/raw/
+data/processed/
+scratch_data/
