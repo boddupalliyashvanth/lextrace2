@@ -1,8 +1,0 @@
-{"bundle": "synth_bundle_1", "doc_id": "synth_bundle_1_doc2", "page": 1, "kind": "contradiction", "description": "FIR says arrested on 14th, Charge sheet says arrested on 16th", "locators": ["doc1 line 1", "doc2 line 1"]}
-{"bundle": "synth_bundle_2", "doc_id": "synth_bundle_2_doc2", "page": 1, "kind": "contradiction", "description": "FIR says arrested on 14th, Charge sheet says arrested on 16th", "locators": ["doc1 line 1", "doc2 line 1"]}
-{"bundle": "synth_bundle_3", "doc_id": "synth_bundle_3_doc2", "page": 1, "kind": "contradiction", "description": "FIR says arrested on 14th, Charge sheet says arrested on 16th", "locators": ["doc1 line 1", "doc2 line 1"]}
-{"bundle": "synth_bundle_4", "doc_id": "synth_bundle_4_doc2", "page": 1, "kind": "contradiction", "description": "FIR says arrested on 14th, Charge sheet says arrested on 16th", "locators": ["doc1 line 1", "doc2 line 1"]}
-{"bundle": "synth_bundle_5", "doc_id": "synth_bundle_5_doc2", "page": 1, "kind": "gap", "description": "Charge sheet mentions a forensic report which is absent from the bundle", "locators": ["doc2 line X"]}
-{"bundle": "synth_bundle_6", "doc_id": "synth_bundle_6_doc2", "page": 1, "kind": "gap", "description": "Charge sheet mentions a forensic report which is absent from the bundle", "locators": ["doc2 line X"]}
-{"bundle": "synth_bundle_7", "doc_id": "synth_bundle_7_doc2", "page": 1, "kind": "gap", "description": "Charge sheet mentions a forensic report which is absent from the bundle", "locators": ["doc2 line X"]}
-{"bundle": "synth_bundle_8", "doc_id": "synth_bundle_8_doc2", "page": 1, "kind": "gap", "description": "Charge sheet mentions a forensic report which is absent from the bundle", "locators": ["doc2 line X"]}
