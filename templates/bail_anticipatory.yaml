@@ -1,0 +1,24 @@
+# Source: standard criminal court formats
+sections:
+  - type: boilerplate
+    name: "Header"
+    file: "templates/boilerplate/bail_header.md"
+  - type: fact_section
+    name: "Facts of the Case"
+    slots:
+      - name: "Applicant Name"
+        description: "The name of the bail applicant"
+        required: true
+        value_type: "string"
+        source_hints: ["FIR"]
+      - name: "Apprehended Arrest Date"
+        description: "The date when arrest is apprehended"
+        required: false
+        value_type: "string"
+        source_hints: ["Notice"]
+  - type: law_section
+    name: "Grounds for Anticipatory Bail"
+    slots: []
+  - type: prayer
+    name: "Prayer"
+    file: "templates/boilerplate/bail_prayer.md"

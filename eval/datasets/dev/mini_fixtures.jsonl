@@ -1,0 +1,1 @@
+{"qid": "q1", "workflow": "review", "query": "What did Fake v. Fake hold?", "case_doc_ids": ["doc1"], "gold_sources": [{"doc_id": "doc1", "locator": "para 1", "quote": "test"}], "gold_points": ["It held test"], "must_not": [], "split": "dev", "author": "tester"}

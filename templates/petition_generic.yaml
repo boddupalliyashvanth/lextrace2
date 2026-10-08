@@ -1,0 +1,16 @@
+sections:
+  - type: boilerplate
+    name: "Header"
+    file: "templates/boilerplate/petition_header.md"
+  - type: fact_section
+    name: "Facts"
+    slots:
+      - name: "Petitioner Name"
+        description: "Name of the petitioner"
+        required: true
+  - type: law_section
+    name: "Grounds"
+    slots: []
+  - type: prayer
+    name: "Prayer"
+    file: "templates/boilerplate/petition_prayer.md"

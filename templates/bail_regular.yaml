@@ -1,0 +1,29 @@
+# Source: standard criminal court formats
+sections:
+  - type: boilerplate
+    name: "Header"
+    file: "templates/boilerplate/bail_header.md"
+  - type: fact_section
+    name: "Facts of the Case"
+    slots:
+      - name: "Applicant Name"
+        description: "The name of the bail applicant"
+        required: true
+        value_type: "string"
+        source_hints: ["FIR", "Arrest memo"]
+      - name: "FIR Number"
+        description: "The registered FIR number"
+        required: true
+        value_type: "string"
+        source_hints: ["FIR"]
+      - name: "Arrest Date"
+        description: "The date of arrest"
+        required: true
+        value_type: "string"
+        source_hints: ["Arrest memo", "Remand application"]
+  - type: law_section
+    name: "Grounds for Bail"
+    slots: []
+  - type: prayer
+    name: "Prayer"
+    file: "templates/boilerplate/bail_prayer.md"

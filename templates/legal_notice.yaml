@@ -1,0 +1,17 @@
+# Source: standard legal notice formats
+sections:
+  - type: boilerplate
+    name: "Header"
+    file: "templates/boilerplate/notice_header.md"
+  - type: fact_section
+    name: "Facts"
+    slots:
+      - name: "Client Name"
+        description: "Name of the client sending notice"
+        required: true
+      - name: "Opposite Party Name"
+        description: "Name of the opposite party"
+        required: true
+  - type: prayer
+    name: "Demand"
+    file: "templates/boilerplate/notice_prayer.md"
